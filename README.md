@@ -1,6 +1,6 @@
 - Hi, I’m @Elan456
 - I work on games, a little AI, and any interesting ideas that come to mind.
-- Currently, I'm developing my own experimental programming language called "stacks"
+- Currently, I work a lot on flight code for Clemson's rocket engineering club
 - How to reach me ...  
 telan4892@gmail.com
 
