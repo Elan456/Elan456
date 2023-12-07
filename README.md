@@ -1,6 +1,5 @@
 - Hi, I’m @Elan456
-- I work on games, a little AI, and any interesting ideas that come to mind.
-- Currently, I work a lot on flight code for Clemson's rocket engineering club
+- I work on games, research projects, and avionics code for rocketry.  
 - How to reach me ...  
 telan4892@gmail.com
 
