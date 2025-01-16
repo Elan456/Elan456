@@ -1,5 +1,5 @@
 - Hi, I’m @Elan456
-- I work on games, research projects, and avionics code for rocketry.  
+- I work on avionics software, computer vision research, and video games.
 - How to reach me ...  
 telan4892@gmail.com
 
