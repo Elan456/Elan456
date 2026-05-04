@@ -24,14 +24,15 @@
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elan456&theme=onedark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elan456&theme=github_dark" alt="GitHub stats" />
 </p>
 
 
 
 ---
-
-<p align="left">🔭 Currently working on <strong>Embedded Systems, AI/ML Projects, and fastquadtree</strong></p>
-<p align="right">🌱 Learning <strong>Rust, Embedded C++, and Computer Vision</strong></p>
-<p align="left">🚀 Active in <strong>Clemson University Rocket Engineering Club</strong></p>
-<p align="right">🎯 Building excellent software for <strong>Aerospace and AI systems</strong></p>
+<p align="center">
+🔭 Currently working on <strong><a href="https://github.com/CURocketEngineering/Avionics">CURE Avionics</a>, and <a href="https://github.com/Elan456/fastquadtree">fastquadtree</a></strong> <br>
+🌱 Learning <strong>Rust, Embedded C++, and Computer Vision</strong> <br>
+🚀 Active in <strong><a href="https://github.com/CURocketEngineering">Clemson University Rocket Engineering Club</a></strong> <br>
+🎯 Building excellent software for <strong>Aerospace and AI systems</strong> <br>
+</p>
