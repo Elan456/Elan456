@@ -11,25 +11,27 @@
   </a>
 </p>
 
----
-
-- 🔭 I’m currently working on **Embedded Systems, AI/ML Projects, and fastquadtree**
-- 🌱 I’m currently learning **Rust, Embedded C++, Computer Vision**
-- 🚀 Active in **Clemson University Rocket Engineering Club**
-- 🎯 Goal: Build excellent software for **Aerospace and AI systems**
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
    <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,docker,linux,git,vscode&theme=dark&perline=8" alt="C, C++, Python, Rust, Docker, Linux, Git, and VS Code" />
 </p>
 
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elan456&theme=onedark" alt="GitHub stats" />
 </p>
 
+
+
+---
+
+<p align="left">🔭 Currently working on <strong>Embedded Systems, AI/ML Projects, and fastquadtree</strong></p>
+<p align="right">🌱 Learning <strong>Rust, Embedded C++, and Computer Vision</strong></p>
+<p align="left">🚀 Active in <strong>Clemson University Rocket Engineering Club</strong></p>
+<p align="right">🎯 Building excellent software for <strong>Aerospace and AI systems</strong></p>
